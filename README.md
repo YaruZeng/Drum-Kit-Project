@@ -4,6 +4,8 @@ Welcome to my Drum Kit project. It's a Frontend project supported by CSS, HTML, 
 
 <img width="1427" alt="image" src="https://github.com/IvyZayn/Drum-Kit-Project/assets/91594306/0e33fbff-cc4e-4d75-8371-0159f164b59b">
 
-# Welcome to play a song for fun! 
+# Welcome to visit the website
+
+Play a song for fun. :)
 
 https://ivyzayn.github.io/Drum-Kit-Project/
