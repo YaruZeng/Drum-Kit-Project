@@ -8,4 +8,4 @@ Welcome to my Drum Kit project. It's a Frontend project supported by CSS, HTML, 
 
 Play a song for fun. :)
 
-https://ivyzayn.github.io/Drum-Kit-Project/
+https://yaruzeng.github.io/Drum-Kit-Project/
